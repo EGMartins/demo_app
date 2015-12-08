@@ -1,1 +1,1 @@
-#This is an demo app built on Ruby on Rails
+#This is a demo app built on Ruby on Rails
